@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+h2{
+    font-family:  Lucida Sans Unicode, Helvetica, Arial; 
+
+}
+
+h3{
+    text-decoration: underline;
+}
+
+h4{
+    font-style: italic;
+}
+
+body{
+    font-size: 12pt;
+    font-family: Lucida Sans Unicode, Helvetica, Arial;
+}
+
+a{
+    font-size: 14pt;
+    color: #A4A400;
+}
